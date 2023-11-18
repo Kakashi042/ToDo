@@ -1,7 +1,7 @@
 # React + Vite
 
 This is a simple Todo App which was followed by a tutorial. 
-Link : https://www.youtube.com/watch?v=Rh3tobg7hEo
+Link: https://www.youtube.com/watch?v=Rh3tobg7hEo
 
 
 Currently, two official plugins are available:
